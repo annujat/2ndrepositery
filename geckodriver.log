@@ -1,0 +1,53 @@
+1693787890136	geckodriver	INFO	Listening on 127.0.0.1:55194
+1693787893184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aniket\\AppData\\Local\\Temp\\rust_mozprofileplMuXe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693787894051	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693787894225	Marionette	INFO	Listening on port 55204
+WebDriver BiDi listening on ws://127.0.0.1:55195
+Read port: 55204
+1693787894581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55195/devtools/browser/829cd55a-82e4-4bf0-b98d-0ba9feae4f17
+1693787936018	Marionette	INFO	Stopped listening on port 55204
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55246" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aniket\\AppData\\Local\\Temp\\rust_mozprofileIKHvho"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693787906595	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693787906742	Marionette	INFO	Listening on port 55258
+WebDriver BiDi listening on ws://127.0.0.1:55246
+Read port: 55258
+1693787907098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55246/devtools/browser/f8030a02-d91a-4157-96f1-0782fe4c1a4b
+1693787923617	Marionette	INFO	Stopped listening on port 55258
+Dynamically enable window occlusion 1
+1693788184772	geckodriver	INFO	Listening on 127.0.0.1:55448
+1693788188048	geckodriver	INFO	Listening on 127.0.0.1:55456
+1693788347751	geckodriver	INFO	Listening on 127.0.0.1:55544
+1693788350795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55545" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aniket\\AppData\\Local\\Temp\\rust_mozprofileIeqV3D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693788351388	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693788351534	Marionette	INFO	Listening on port 55553
+WebDriver BiDi listening on ws://127.0.0.1:55545
+Read port: 55553
+1693788351791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55545/devtools/browser/0654f407-b28b-4f03-81ce-2d99779f6bfb
+1693788380981	Marionette	INFO	Stopped listening on port 55553
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55594" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aniket\\AppData\\Local\\Temp\\rust_mozprofilecF7LyO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693788362721	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693788362879	Marionette	INFO	Listening on port 55606
+Read port: 55606
+WebDriver BiDi listening on ws://127.0.0.1:55594
+1693788362998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55594/devtools/browser/ea814ffa-18fe-422f-ae9c-e18c76939d47
+1693788379108	Marionette	INFO	Stopped listening on port 55606
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
